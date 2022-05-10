@@ -368,16 +368,16 @@ section .title::after {
   background: crimson;
 }
 .skills-content .right .web::before {
-  width: 80%;
+  width: 90%;
 }
 .skills-content .right .mobile::before {
   width: 90%;
 }
 .skills-content .right .graphics::before {
-  width: 80%;
+  width: 85%;
 }
 .skills-content .right .animation::before {
-  width: 70%;
+  width: 80%;
 }
 .skills-content .right .editing::before {
   width: 90%;
